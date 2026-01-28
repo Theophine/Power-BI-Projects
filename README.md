@@ -1,2 +1,2 @@
-# Power-BI-Projects
+# Power-BI-Projects - DRUG SALES DASHBOARD  
 Repository for My Power BI portfolio projects, Including Dataset, Final project, and a ReadMe File with the Project Objective... 
